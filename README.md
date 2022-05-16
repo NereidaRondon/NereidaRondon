@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NereidaRondon
-- 👀 I’m interested in learning web development, to ultimately become a frontend developer.
-- 🌱 I’m currently learning about the web development field, while gaining more experience in website development and more knowledge in computer programming languages.
+- 👀 I’m interested in learning web development to ultimately become a frontend developer.
+- 🌱 I’m currently learning JavaScript by using freeCodeCamp and through Shecodes' Frontend Dev workshop.
 - 📫 How to reach me, email me at: Nereida.Rondon5@gmail.com
 
 <!---
