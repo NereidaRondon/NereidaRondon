@@ -1,9 +1,6 @@
 - 👋 Hi, I’m @NereidaRondon
 - 👀 I’m training to become a frontend developer.
-- 🌼 I’m currently learning about Software Development with:
--   ⏺freeCodeCamp
--   ⏺Shecodes' Frontend Dev workshop
--   ⏺Promineo Tech Frontend Dev Bootcamp
+- 🌼 I’m currently learning about Software Development with: freeCodeCamp, Shecodes' Frontend Dev workshop, and Promineo Tech Frontend Dev Bootcamp
 - 📫 How to reach me, email me at: Nereida.Rondon5@gmail.com
 
 <!---
