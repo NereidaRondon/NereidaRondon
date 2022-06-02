@@ -7,3 +7,4 @@
 NereidaRondon/NereidaRondon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<img src="https://www.istockphoto.com/photo/colorful-stars-abstract-background-gm1336158433-417524660" alt="colorful stars banner">
