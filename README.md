@@ -1,4 +1,4 @@
-![blue and pink Gradient build cover Banner (1)](https://user-images.githubusercontent.com/97356401/171762137-d2b401d4-7ff1-4d9d-9195-1104ffa68862.png)
+![blue and pink Gradient build cover Banner (2)](https://user-images.githubusercontent.com/97356401/171762653-7633d10b-051c-45d6-9f6b-e46481c1216a.png)
 
 ![blue and pink Gradient build cover Banner](https://user-images.githubusercontent.com/97356401/171761956-70f37798-0786-4316-9b7c-9daffba8a411.png)
 - 👋 Hi, I’m @NereidaRondon
