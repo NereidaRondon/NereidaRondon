@@ -8,3 +8,4 @@ NereidaRondon/NereidaRondon is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
+![blue and pink Gradient build cover Banner](https://user-images.githubusercontent.com/97356401/171761956-70f37798-0786-4316-9b7c-9daffba8a411.png)
