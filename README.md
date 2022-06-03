@@ -1,6 +1,4 @@
 ![blue and pink Gradient build cover Banner (2)](https://user-images.githubusercontent.com/97356401/171762653-7633d10b-051c-45d6-9f6b-e46481c1216a.png)
-
-![blue and pink Gradient build cover Banner](https://user-images.githubusercontent.com/97356401/171761956-70f37798-0786-4316-9b7c-9daffba8a411.png)
 - 👋 Hi, I’m @NereidaRondon
 - 👀 I’m training to become a frontend developer.
 - 🌼 I’m currently learning about Software Development with: freeCodeCamp, Shecodes' Frontend Dev workshop, and Promineo Tech Frontend Dev Bootcamp
