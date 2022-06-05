@@ -3,6 +3,7 @@
 - 👀 I’m training to become a frontend developer.
 - 🌼 I’m currently learning about Software Development with: freeCodeCamp, Shecodes' Frontend Dev workshop, and Promineo Tech Frontend Dev Bootcamp
 - 📫 How to reach me, email me at: Nereida.Rondon5@gmail.com
+- 💜 Discord Study Group https://discord.gg/fCCPw5f3US
 
 <!---
 NereidaRondon/NereidaRondon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
