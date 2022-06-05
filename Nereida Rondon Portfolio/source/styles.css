@@ -1,0 +1,255 @@
+ {
+  border: 1px solid red;
+  font-family: "Zilla Slab", "Century Gothic", serif;
+}
+
+html {
+  width: 100%;
+  min-width: 500px;
+  font-family: "Zilla Slab", "Century Gothic", serif;
+  color: rgb(0, 0, 0);
+  margin: auto;
+  background: linear-gradient(
+    60deg,
+    #011431,
+    #273c5c,
+    #204d70,
+    #0d5f82,
+    #007291,
+    #00859d,
+    #0098a4,
+    #00aba9,
+    #2fbea9,
+    #58cfa7,
+    #7fe0a3,
+    #a7f09f,
+    #d1ff9c
+  );
+}
+
+body {
+  margin: 10px 20px;
+}
+
+.homeLink {
+  font-family: "Zilla Slab", "Century Gothic", serif;
+  font-weight: bold;
+  font-size: 30px;
+  text-decoration: none;
+  color: #022c43;
+  transition: 0.1s ease-in-out;
+}
+.homeLink:hover {
+  color: #19d15c;
+  text-shadow: 0 0 3px #03293a;
+}
+div ul {
+  display: flex;
+  padding: 0;
+  float: right;
+  align-items: space-between;
+  font-size: 20px;
+  list-style: none;
+}
+
+div ul li {
+  padding: 0 10px;
+}
+div ul li a {
+  text-decoration: none;
+  color: #022c43;
+  transition: 0.1s ease-in-out;
+}
+div ul li a:hover {
+  color: #19d15c;
+  text-shadow: 0 0 4px #03293a;
+}
+
+nav {
+  margin: 50px 0;
+  width: 100%;
+  font-family: "Zilla Slab", "Century Gothic", serif;
+  font-weight: bold;
+  float: center;
+  text-align: center;
+}
+
+nav ul {
+  display: flex;
+  padding: 5px 10px;
+  justify-content: center;
+  align-items: space-between;
+  font-size: 20px;
+  list-style: none;
+}
+
+nav ul li {
+  width: 10%;
+  padding: 0 30px;
+}
+nav ul li a {
+  text-decoration: none;
+  color: #022c43;
+  transition: 0.1s ease-in-out;
+}
+nav ul li a:hover {
+  color: #19d15c;
+  text-shadow: 0 0 4px #011431;
+}
+.intro {
+  display: flex;
+  text-align: left;
+}
+
+.box {
+  margin: auto;
+  position: center;
+}
+.row {
+  display: flex;
+  float: center;
+}
+.col-5 {
+  display: flex;
+  margin: 0 50px 0 0;
+  justify-content: right;
+  align-items: center;
+  height: 300px;
+  width: 40%;
+}
+.col-7 .container {
+  align-items: center;
+  justify-content: center;
+  margin: 0;
+  text-align: center;
+  width: 100%;
+}
+img {
+  width: 30%;
+  height: auto;
+  min-width: 130px;
+  border-radius: 10px;
+  filter: drop-shadow(10px 10px 5px #273c5c);
+  transition: 200ms ease-in-out;
+}
+img:hover {
+  width: 40%;
+  border: 3px solid #273c5c;
+}
+
+h1 {
+  margin: 0px;
+  font-family: "Zilla Slab", "Century Gothic", serif;
+  text-align: left;
+  color: #011431;
+}
+
+h2 {
+  margin: auto;
+  font-family: "Zilla Slab", "Century Gothic", serif;
+  color: #011431;
+}
+p {
+  border: 0;
+  margin: auto;
+  padding: 0px;
+  font-size: 18px;
+  font-family: "Century Gothic";
+  text-align: left;
+}
+button {
+  font-family: "Zilla Slab", "Century Gothic", serif;
+  font-size: medium;
+  color: #a7f09f;
+  padding: 15px 25px;
+  margin: 20px auto;
+  border: 1px solid #011431;
+  border-radius: 5px;
+  background-color: #022c43;
+  border-color: #011431;
+  box-shadow: 2px 4px 2px 0px #273c5c;
+  display: flex;
+  text-decoration: none;
+  transition: 0.4s ease-in-out;
+}
+button:hover {
+  background-color: #19d15c;
+  color: #011431;
+  border-color: #011431;
+}
+a {
+  text-decoration: none;
+}
+.secGroup {
+  padding-top: 20px;
+}
+
+.grid-container {
+  display: grid;
+  gap: 20px;
+  grid-template-columns: auto auto auto;
+  padding: 0;
+}
+
+.grid-item {
+  background-color: rgba(255, 255, 255, 0.2);
+  padding: 5px;
+  font-size: 20px;
+  text-align: center;
+}
+footer {
+  padding: 20px;
+}
+
+.typewriter {
+  overflow: hidden; /* Ensures the content is not revealed until the animation */
+  max-width: 200px;
+  border-right: 0.15em solid #011431; /* The typwriter cursor */
+  white-space: nowrap; /* Keeps the content on a single line */
+  margin: 0 auto; /* Gives that scrolling effect as the typing happens */
+  letter-spacing: 0.05em; /* Adjust as needed */
+  animation: typing 9s steps(40, end), blink-caret 0.7s step-end infinite;
+}
+
+/* The typing effect */
+@keyframes typing {
+  from {
+    width: 0;
+  }
+  to {
+    width: 100%;
+  }
+}
+
+/* The typewriter cursor effect */
+@keyframes blink-caret {
+  from,
+  to {
+    border-color: transparent;
+  }
+  50% {
+    border-color: #0d5f82;
+  }
+}
+
+.first-color {
+  background: #022c43 rgb(2, 44, 67);
+}
+.second-color {
+  background: #053f5e rgb(5, 63, 94);
+}
+.third-color {
+  background: #115173 rgb(17, 81, 115);
+}
+.fourth-color {
+  background: #ffd700 rgb(255, 215, 0);
+}
+.fifth-color {
+  background: #b5ff60 rgb(181, 255, 96);
+}
+.sixth-color {
+  background: rgb(0, 128, 128);
+}
+.seventh-color {
+  background: #19d15c rgb(25, 209, 102);
+}
