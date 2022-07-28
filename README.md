@@ -6,11 +6,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer
 ------------------
 
-* 🌍  I'm based in Florida
-* ✉️  You can contact me at [Nereida.Rondon5@gmail.com](mailto:Nereida.Rondon5@gmail.com)
-* 🚀  I'm currently working on [A To-Do list app](http://clicklist.netlify.app)
-* 🧠  I'm learning React.js and how to use Google App Scripts on Google sheets
-* 🤝  I'm open to collaborating on Any JavaScript Projects
+🌼 I’m currently learning about Software Development with: ✨freeCodeCamp ✨Shecodes' Frontend Dev workshop ✨Promineo Tech's Frontend Dev Bootcamp ✨Meta's Front-End Developer Professional Certificate on Coursera
+
+* 🌍  I'm based in Florida
+* 🖥️  See my portfolio at [My Portfolio](http://NereidaRondon.com)
+* ✉️  You can contact me at [Nereida.Rondon5@gmail.com](mailto:Nereida.Rondon5@gmail.com)
+* 🚀  I'm currently working on [A To-Do list app](http://clicklist.netlify.app)
+* 🧠  I'm learning React.js and how to use Google App Scripts on Google sheets
+* 🤝  I'm open to collaborating on Any JavaScript Projects
 
 ### Skills
 
