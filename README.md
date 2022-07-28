@@ -6,7 +6,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer
 ------------------
 
-🌼 I’m currently learning about Software Development with: ✨freeCodeCamp ✨Shecodes' Frontend Dev workshop ✨Promineo Tech's Frontend Dev Bootcamp ✨Meta's Front-End Developer Professional Certificate on Coursera
+🌼 I’m currently learning about Software Development with: 
+    ✨freeCodeCamp 
+    ✨Shecodes' Frontend Dev workshop 
+    ✨Promineo Tech's Frontend Dev Bootcamp 
+    ✨Meta's Front-End Developer Professional Certificate on Coursera
 
 * 🌍  I'm based in Florida
 * 🖥️  See my portfolio at [My Portfolio](http://NereidaRondon.com)
