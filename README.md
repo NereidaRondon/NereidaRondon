@@ -7,11 +7,11 @@ Frontend Developer
 ------------------
 
 <h1> 🌼 I’m currently expanding my knowledge and skills in Software Development with:</h1> 
-    <p>
+    <h3>
     <br>✨freeCodeCamp 
     <br>✨Shecodes' Frontend Dev workshop 
     <br>✨Promineo Tech's Frontend Dev Bootcamp 
-    <br>✨Meta's Front-End Developer Professional Certificate on Coursera </p>
+    <br>✨Meta's Front-End Developer Professional Certificate on Coursera </h3>
 
 * 🌍  I'm based in ☀ Florida
 * 🖥️  See my work in [My Portfolio](http://NereidaRondon.com)
