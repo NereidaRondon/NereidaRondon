@@ -1,3 +1,4 @@
+![image](https://user-images.githubusercontent.com/97356401/181618885-f716590d-d665-4d4a-a0c3-8ca3f1dd11f1.png)
 ![blue and pink Gradient build cover Banner (2)](https://user-images.githubusercontent.com/97356401/171762653-7633d10b-051c-45d6-9f6b-e46481c1216a.png)
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nereida Rondon
