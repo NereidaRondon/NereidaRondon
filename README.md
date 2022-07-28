@@ -20,6 +20,11 @@ Frontend Developer
 * 🧠  I'm learning about APIs and Git Version Control
 * 🤝  I'm open to collaborating on Any JavaScript Projects
 
+
+| Attempt | #1  | #2  |
+| :-----: | :-: | :-: |
+| Seconds | 301 | 283 |
+
 ### Skills
 
 <p align="left">
