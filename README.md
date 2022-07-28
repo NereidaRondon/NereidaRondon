@@ -12,11 +12,11 @@ Frontend Developer
     ✨Promineo Tech's Frontend Dev Bootcamp 
     ✨Meta's Front-End Developer Professional Certificate on Coursera
 
-* 🌍  I'm based in Florida
-* 🖥️  See my portfolio at [My Portfolio](http://NereidaRondon.com)
+* 🌍  I'm based in ☀ Florida
+* 🖥️  See my work in [My Portfolio](http://NereidaRondon.com)
 * ✉️  You can contact me at [Nereida.Rondon5@gmail.com](mailto:Nereida.Rondon5@gmail.com)
 * 🚀  I'm currently working on [A To-Do list app](http://clicklist.netlify.app)
-* 🧠  I'm learning React.js and how to use Google App Scripts on Google sheets
+* 🧠  I'm learning about APIs and Git Version Control
 * 🤝  I'm open to collaborating on Any JavaScript Projects
 
 ### Skills
