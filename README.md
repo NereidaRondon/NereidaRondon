@@ -4,14 +4,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ======================================================================================================================================
 
 🌼 I’m currently expanding my knowledge and skills in Software Development with:
-    ✨Shecodes' Frontend Dev workshop 
-    ✨Promineo Tech's Frontend Dev Bootcamp with Florida SouthWestern State College and
-    ✨Meta's Front-End Developer Professional Certificate on Coursera 
+    ✨Promineo Tech's Frontend Dev Bootcamp with Florida SouthWestern State College,
+    ✨Meta's Front-End Developer Professional Certificate on Coursera, and 
+    ✨Shecodes' Frontend Dev workshop.
 
 * 🌍  I'm based in ☀ Florida
 * 🖥️  See my work on [My Portfolio](http://NereidaRondon.com) website
 * ✉️  You can contact me at [Nereida.Rondon5@gmail.com](mailto:Nereida.Rondon5@gmail.com)
-* 🚀  I'm currently working on a[To-Do list app](http://clicklist.netlify.app) for my Bootcamp
+* 🚀  I'm currently working on a [To-Do list app](http://clicklist.netlify.app) for my Bootcamp
 * 🧠  I'm learning about Testing and Git Version Control
 * 🛸  Up next will be APIs and React.js
 * 🤝  I'm open to collaborating on any JavaScript Projects
