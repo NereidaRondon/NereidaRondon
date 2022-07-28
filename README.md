@@ -6,9 +6,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer
 ------------------
 
-<h1> 🌼 I’m currently expanding my knowledge and skills in Software Development with:</h1> 
+<h2> 🌼 I’m currently expanding my knowledge and skills in Software Development with:</h2> 
     <h3>
-    <br>✨freeCodeCamp 
+    ✨freeCodeCamp 
     <br>✨Shecodes' Frontend Dev workshop 
     <br>✨Promineo Tech's Frontend Dev Bootcamp 
     <br>✨Meta's Front-End Developer Professional Certificate on Coursera </h3>
