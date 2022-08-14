@@ -14,7 +14,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * 🚀  I'm currently working on a [To-Do list app](http://clicklist.netlify.app) for my Bootcamp
 * 🧠  I'm learning about Testing and Git Version Control
 * 🛸  Up next will be APIs and React.js
-* 🤝  I'm open to collaborating on any JavaScript Projects
+* 🤝  I'm open to collaborating on any JavaScript Projects and I'm looking to contribute to open source projects
 
 
 ### Skills
