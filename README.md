@@ -9,14 +9,16 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
     
 🌼 I’m currently expanding my knowledge and skills in Software Development with:
   
-    ✨Meta's Front-End Developer Professional Certificate on Coursera 
+    ✨Meta's Front-End Developer Professional Certificate on Coursera     
      
 🔮 What's next?
 
     ✨Harvard's CS50 on edEx 🧠
     ✨Contribute to open source projects
-    ✨Want to learn React Native
-    ✨Want to learn Tailwind CSS
+    ✨React Native
+    ✨Tailwind CSS
+    ✨TypeScript
+    ✨
 
 * 🌍  I'm based in 🌞 Florida
 * 🖥️  See my work on [My Portfolio](http://NereidaRondon.com) website
@@ -34,8 +36,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <!-- &emsp;<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a> -->
 
-
-
+### Practice
+<p align="left">
+<a href='https://www.codewars.com/users/NereidaRondon/badges/large' alt='Nereida's CodeWars badge' width="36" height="36"/>
+</p>
 
 ### Socials
 <p align="left">
