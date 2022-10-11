@@ -53,10 +53,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <a href="http://www.github.com/NereidaRondon"><img src="https://activity-graph.herokuapp.com/graph?username=NereidaRondon&bg_color=0f172a&color=ffffff&line=ec4899&point=ffffff&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/NereidaRondon" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NereidaRondon&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=ec4899&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>  
 
+[![@nereidarondon's Holopin board](https://holopin.io/api/user/board?user=nereidarondon)](https://holopin.io/@nereidarondon)
 
-
-
-### Badges
 
