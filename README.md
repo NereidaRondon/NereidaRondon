@@ -4,18 +4,23 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ======================================================================================================================================
 ### 🏁 I have completed:
 - Shecodes' Intro to Coding workshop... April 2022 ✔
-- Promineo Tech's 18-week Frontend Dev Bootcamp with Florida SouthWestern State College... October 2022 ✔
+- Promineo Tech's 18-week Frontend Dev Boot camp with Florida SouthWestern State College... October 2022 ✔
     
 ### 🌼 I’m currently expanding my knowledge and skills in Software Development with:
-- Meta's Front-End Developer Professional Certificate on Coursera 🖱    
+- I'm currently working on a website for a local small business 🚀
+- Meta's Front-End Developer Professional Certificate on Coursera 🖱 
+- Started the Back-End Developer Boot camp with Florida SouthWestern State College... will complete by March 2023
+- Will  be learning: 
+  * Java
+  * Springboot 
+  * SQL
      
 ### 🔮 What's next?
-- I'm currently working on a website for a local small business 🚀
-- Harvard's CS50 on edEx 🧠
 - Contribute to open source projects 💻
 - React Native 📱
 - Tailwind CSS 🍃
 - TypeScript ✨
+- Harvard's CS50 on edEx 🧠
 
 ------------------------------------    
 ### About Me
