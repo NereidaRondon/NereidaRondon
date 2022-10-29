@@ -6,13 +6,13 @@
 
 
 ## Table of Contents  
-1. [Education]()  
-2. [Skill Development]()
-3. [What's next?]()
-4. [About me]()
-5. [Socials]() 
-6. [Skills]() 
-7. [Badges]() 
+1. [Education](https://github.com/NereidaRondon/NereidaRondon/blob/main/README.md#-education)  
+2. [Skill Development](https://github.com/NereidaRondon/NereidaRondon/blob/main/README.md#-skill-development-how-am-i-growing-as-a-software-developer-and-expanding-my-skills)
+3. [What's next?](https://github.com/NereidaRondon/NereidaRondon/blob/main/README.md#-whats-next-things-i-plan-on-learningdoing)
+4. [About me](https://github.com/NereidaRondon/NereidaRondon/blob/main/README.md#about-me)
+5. [Socials](https://github.com/NereidaRondon/NereidaRondon/blob/main/README.md#socials) 
+6. [Skills](https://github.com/NereidaRondon/NereidaRondon/blob/main/README.md#skills) 
+7. [Badges](https://github.com/NereidaRondon/NereidaRondon/blob/main/README.md#badges) 
 
 
 ------------------------------
