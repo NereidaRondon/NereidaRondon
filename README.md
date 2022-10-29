@@ -1,25 +1,43 @@
 ![image](https://user-images.githubusercontent.com/97356401/198838136-080bb193-be4d-4380-8e7a-ee02bdf2ba4a.png)
 
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)... I am Nereida Rondon, frontend developer.
-======================================================================================================================================
-### 🏁 I have completed:
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)... I am Nereida Rondon, frontend developer.
+
+
+
+## Table of Contents  
+1. [Education]()  
+2. [Skill Development]()
+3. [What's next?]()
+4. [About me]()
+5. [Socials]() 
+6. [Skills]() 
+7. [Badges]() 
+
+
+------------------------------
+
+
+### 🏁 Education:
 - Shecodes' Intro to Coding workshop... April 2022 ✔
 - Promineo Tech's 18-week Frontend Dev Boot camp with Florida SouthWestern State College... October 2022 ✔
-    
-### 🌼 How I'm growing as a software developer and expanding my skills:
-- I'm currently working on a website for a local small business 🚀
-- I'm working through the Meta's Front-End Developer Professional Certificate on Coursera 🖱 
-- Started Promieno Tech's Back-End Developer Boot camp with Florida SouthWestern State College... will complete by March 2023
-- Learning: 
-  * Java
+- Meta's Front-End Developer Professional Certificate on Coursera... will complete by January 2023🚀
+- Started Promieno Tech's Back-End Developer Boot camp with Florida SouthWestern State College... will complete by March 2023🚀
+
+------------------------------
+
+### 🌼 Skill Development: How am I growing as a software developer and expanding my skills?
+- I'm currently working on a website for a local small business 🔨 
+- Learning Java ☕
 <!--   * Springboot 
   * SQL -->
-     
+
+------------------------------
+
 ### 🔮 What's next? Things I plan on learning/doing:
 - Harvard's CS50 on edEx 🧠
-- Springboot 📦
 - SQL 📃
+- Springboot 📦
 - Contribute to open source projects 💻
 - React Native 📱
 - Tailwind CSS 🍃
@@ -27,7 +45,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 
 ------------------------------------    
-### About Me
+### About me
 
 * 🌍  I'm based in 🌞 Florida
 * 🖥️  See my work on [My Portfolio](http://NereidaRondon.com) website
