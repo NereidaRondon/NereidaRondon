@@ -1,4 +1,5 @@
-![image](https://user-images.githubusercontent.com/97356401/181629966-ced36a6a-be84-40b2-831c-b5fbe11d89eb.png)
+![image](https://user-images.githubusercontent.com/97356401/198838136-080bb193-be4d-4380-8e7a-ee02bdf2ba4a.png)
+
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)... I am Nereida Rondon, frontend developer.
 ======================================================================================================================================
