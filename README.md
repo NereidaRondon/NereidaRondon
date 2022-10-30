@@ -1,3 +1,14 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+  <img align='right' alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png" width='50' height='50'>
+</picture>
+
+
+![GitHub last commit](https://img.shields.io/github/last-commit/nereidarondon/NereidaRondon?style=for-the-badge)
+
+Check out my [Portfolio 🤓](http://NereidaRondon.com)
+
 ![image](https://user-images.githubusercontent.com/97356401/198838136-080bb193-be4d-4380-8e7a-ee02bdf2ba4a.png)
 
 
@@ -6,10 +17,10 @@
 
 
 ## Table of Contents  
-1. [Education](https://github.com/NereidaRondon/NereidaRondon/blob/main/README.md#-education)  
-2. [Skill Development](https://github.com/NereidaRondon/NereidaRondon/blob/main/README.md#-skill-development-how-am-i-growing-as-a-software-developer-and-expanding-my-skills)
-3. [What's next?](https://github.com/NereidaRondon/NereidaRondon/blob/main/README.md#-whats-next-things-i-plan-on-learningdoing)
-4. [About me](https://github.com/NereidaRondon/NereidaRondon/blob/main/README.md#about-me)
+1. [About me](https://github.com/NereidaRondon/NereidaRondon/blob/main/README.md#about-me)
+2. [Education](https://github.com/NereidaRondon/NereidaRondon/blob/main/README.md#-education)  
+3. [Skill Development](https://github.com/NereidaRondon/NereidaRondon/blob/main/README.md#-skill-development-how-am-i-growing-as-a-software-developer-and-expanding-my-skills)
+4. [What's next?](https://github.com/NereidaRondon/NereidaRondon/blob/main/README.md#-whats-next-things-i-plan-on-learningdoing)
 5. [Socials](https://github.com/NereidaRondon/NereidaRondon/blob/main/README.md#socials) 
 6. [Skills](https://github.com/NereidaRondon/NereidaRondon/blob/main/README.md#skills) 
 7. [Badges](https://github.com/NereidaRondon/NereidaRondon/blob/main/README.md#badges) 
@@ -17,8 +28,16 @@
 
 ------------------------------
 
+### 👩🏻About me
 
-## 🏁 Education:
+* 🌍  I'm based in 🌞 Florida
+* 🖥️  See my [Portfolio Projects](https://nereidarondon.com/projects.html)
+* ✉️  You can contact me at [Nereida.Rondon5@gmail.com](mailto:Nereida.Rondon5@gmail.com)
+* 🤝  I'm open to collaborating on any JavaScript Projects and I'm looking to contribute to open source projects
+
+------------------------------------ 
+
+### 🏁 Education:
 - Shecodes' Intro to Coding workshop... April 2022 ✔
 - Promineo Tech's 18-week Frontend Dev Boot camp with Florida SouthWestern State College... October 2022 ✔
 - Meta's Front-End Developer Professional Certificate on Coursera... will complete by January 2023🚀
@@ -26,15 +45,15 @@
 
 ------------------------------
 
-## 🌼 Skill Development: How am I growing as a software developer and expanding my skills?
+### 🌼 Skill Development: How am I growing as a software developer and expanding my skills?
 - I'm currently working on a website for a local small business 🔨 
-- Learning Java ☕
+- I'm currently learning Java ☕
 <!--   * Springboot 
   * SQL -->
 
 ------------------------------
 
-## 🔮 What's next? Things I plan on learning/doing:
+### 🔮 What's next? Things I plan on learning/doing:
 - Harvard's CS50 on edEx 🧠
 - SQL 📃
 - Springboot 📦
@@ -45,16 +64,8 @@
 
 
 ------------------------------------    
-## 👩🏻About me
 
-* 🌍  I'm based in 🌞 Florida
-* 🖥️  See my work on [My Portfolio](http://NereidaRondon.com) website
-* ✉️  You can contact me at [Nereida.Rondon5@gmail.com](mailto:Nereida.Rondon5@gmail.com)
-* 🤝  I'm open to collaborating on any JavaScript Projects and I'm looking to contribute to open source projects
-
------------------------------------- 
-
-## 🛠Skills🧰
+### 🛠 Skills
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>      
 $~~~~$ 
@@ -75,7 +86,9 @@ $~~~~$
 
 <!-- &emsp;<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a> -->
 
-## 💻Socials
+------------------------------------ 
+
+### 💻 Socials
 <p align="left">
 <a href="https://www.linkedin.com/in/NereidaRondon" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 $~~~~~$
@@ -86,7 +99,9 @@ $~~~~~$
 <a href="https://www.codepen.io/NereidaRondon" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a> 
 </p>    
 
-## 🛡Badges
+------------------------------------ 
+
+### 🛡 Badges
 <p align="left">
 <img class="codewars" src="https://www.codewars.com/users/NereidaRondon/badges/large" alt="Nereida's CodeWars score" width="290">   
 <br>
