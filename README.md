@@ -20,10 +20,10 @@ Check out my [Portfolio 🤓](http://NereidaRondon.com)
 1. [About me](https://github.com/NereidaRondon/NereidaRondon/blob/main/README.md#about-me)
 2. [Education](https://github.com/NereidaRondon/NereidaRondon/blob/main/README.md#-education)  
 3. [Skill Development](https://github.com/NereidaRondon/NereidaRondon/blob/main/README.md#-skill-development-how-am-i-growing-as-a-software-developer-and-expanding-my-skills)
-4. [What's next?](https://github.com/NereidaRondon/NereidaRondon/blob/main/README.md#-whats-next-things-i-plan-on-learningdoing)
-5. [Socials](https://github.com/NereidaRondon/NereidaRondon/blob/main/README.md#socials) 
-6. [Skills](https://github.com/NereidaRondon/NereidaRondon/blob/main/README.md#skills) 
-7. [Badges](https://github.com/NereidaRondon/NereidaRondon/blob/main/README.md#badges) 
+4. [What's next?](https://github.com/NereidaRondon#-whats-next-things-i-plan-on-learningdoing)
+5. [Skills](https://github.com/NereidaRondon#-skills)
+6. [Socials](https://github.com/NereidaRondon/NereidaRondon/blob/main/README.md#-socials) 
+7. [Badges](https://github.com/NereidaRondon/NereidaRondon/blob/main/README.md#-badges) 
 
 
 ------------------------------
