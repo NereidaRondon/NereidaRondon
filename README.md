@@ -5,7 +5,7 @@
 </picture>
 
 
-![GitHub last commit](https://img.shields.io/github/last-commit/nereidarondon/NereidaRondon?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/nereidarondon/NereidaRondon?style=for-the-badge&color=001ac2)
 
 Check out my [Portfolio 🤓](http://NereidaRondon.com)
 
@@ -23,7 +23,8 @@ Check out my [Portfolio 🤓](http://NereidaRondon.com)
 4. [What's next?](https://github.com/NereidaRondon/NereidaRondon/blob/main/README.md#-whats-next-things-i-plan-on-learningdoing)
 5. [Skills](https://github.com/NereidaRondon/NereidaRondon/blob/main/README.md#-skills)
 6. [Socials](https://github.com/NereidaRondon/NereidaRondon/blob/main/README.md#-socials) 
-7. [Badges](https://github.com/NereidaRondon/NereidaRondon/blob/main/README.md#-badges) 
+7. [Featured Projects](https://github.com/NereidaRondon/NereidaRondon/blob/main/README.md#-featured-projects) 
+8. [Badges](https://github.com/NereidaRondon/NereidaRondon/blob/main/README.md#-badges) 
 
 
 ------------------------------
@@ -97,19 +98,116 @@ $~~~~~$
 <a href="https://discord.com/users/NereidaRondon" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
 $~~~~~$
 <a href="https://www.codepen.io/NereidaRondon" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a> 
+$~~~~~$
+<a href="https://leetcode.com/NereidaRondon/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/LeetCode_Logo_black_with_text.svg" width='130' alt="LeetCode profile"></a>
+$~~~~~$  
+<a href="https://www.codewars.com/users/NereidaRondon"><img class="codewars" src="https://www.codewars.com/users/NereidaRondon/badges/large" alt="Nereida's CodeWars score" width="300"></a>    
 </p>    
 
+------------------------------------
+
+
+### <h3 align="center"> ✨Featured Projects✨</h2>
+
+<div align="center">
+<table>
+  
+  <!--------WEATHER APP--------->
+<tr>
+<td width="50%">  
+<h3 align="center">Weather Dsahboard</h2>
+<div align="center" >  
+  
+  [Weather Dashboard (3).webm](https://user-images.githubusercontent.com/97356401/200140593-73171a2f-66e0-4524-86ed-930e2618b2a8.webm)
+
+<p>
+  <a href="https://github.com/NereidaRondon/Weather.git" target="_blank">
+  <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
+    
+  <a href="https://nereidarondon.github.io/Weather/" target="_blank">
+  <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=001ac2"/>
+  </a>
+</p>
+  
+<p><strong>React, React-Bootstrap, React-Router, Create-React-App, JSX, CSS</strong></p>
+<p>This app gives the user's local weather and has a dashboard that stores "favorite" locations searched by the user with API integration. These locations' weather can be updated or deleted to make room for another destination. There is also a map page. This project uses the Open weather API and Google's Geo Location API, as well as Google's Static Map API and Directions API.</p>
+</div>
+</td>
+<!--------MOVIE REVIEW APP--------->  
+<td width="50%">
+  <h3 align="center" color="blue">MCU Movie Review App</h2>
+
+  <div align="center" >  
+  <a href='https://nereidarondon.com/'</a>
+
+  [Movie Review.webm](https://user-images.githubusercontent.com/97356401/196052185-4aa708e1-9201-46fb-b19d-56a13cfa368e.webm)
+
+<p>
+  <a href="https://github.com/NereidaRondon/MCUMovies.git" target="_blank">
+  <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
+    
+  <a href="https://nereidarondon.github.io/MCUMovies/" target="_blank">
+  <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=001ac2"/>
+  </a></a>
+</p>
+  
+<p><strong>HTML5, CSS3, and SCSS</strong></p>
+<p>Created a website to display my work and projects.</p>
+</div>
+</td>
+</tr>
+
+<!--------NAVBAR--------->
+<tr>
+<td width="50%">
+<h3 align="center">Navbar</h2>
+ <div align="center" >   
+  
+ [My Portfolio](https://user-images.githubusercontent.com/97356401/200138812-62cdd440-7e18-4007-b4dc-aa8fe04f202f.webm)
+  
+<p>
+  <a href="https://github.com/NereidaRondon/Weather.git" target="_blank">
+  <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
+    
+  <a href="https://nereidarondon.github.io/Weather/" target="_blank">
+  <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=001ac2"/>
+  </a>
+</p>
+  
+<p><strong>React, React-Router, Vite, JSX, CSS</strong></p>
+<p>This is a fully functional Nav Bar created with React.</p>
+</div>
+</td>
+
+<!--------PORTFOLIO--------->  
+<td width="50%">  
+  <h3 align="center" color="blue">Portfolio</h2>
+
+  <div align="center" >  
+  <a href='https://nereidarondon.com/'</a>
+
+  [My Portfolio](https://user-images.githubusercontent.com/97356401/200138812-62cdd440-7e18-4007-b4dc-aa8fe04f202f.webm)
+
+<p>
+  <a href="https://github.com/NereidaRondon/MyPortfolio.git" target="_blank">
+  <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
+    
+  <a href="https://nereidarondon.com/" target="_blank">
+  <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=001ac2"/>
+  </a></a>
+</p>
+  
+<p><strong>HTML5, CSS3, and SCSS</strong></p>
+<p>Created a website to display my work and projects.</p>
+</div>
+</tr>
+</table>
+
+$~~~$
 ------------------------------------ 
 
 ### 🛡 Badges
 <p align="left">
-<img class="codewars" src="https://www.codewars.com/users/NereidaRondon/badges/large" alt="Nereida's CodeWars score" width="290">   
-<br>
-<br>
-<a href="https://leetcode.com/NereidaRondon/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/LeetCode_Logo_black_with_text.svg" width='100' alt="LeetCode profile"></a>
-</p>
-
-
 
 <a href="http://www.github.com/NereidaRondon"><img src="https://github-readme-stats.vercel.app/api?username=NereidaRondon&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=ec4899&bg_color=0f172a&hide_border=true&show_icons=true" alt="NereidaRondon's GitHub stats" /></a>  <a href="http://www.github.com/NereidaRondon"><img src="https://github-readme-streak-stats.herokuapp.com/?user=NereidaRondon&stroke=ffffff&background=0f172a&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
