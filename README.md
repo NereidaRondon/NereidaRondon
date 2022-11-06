@@ -106,8 +106,9 @@ $~~~~~$
 <a href="https://www.codewars.com/users/NereidaRondon"><img class="codewars" src="https://www.codewars.com/users/NereidaRondon/badges/large" alt="Nereida's CodeWars score" width="300"></a>    
 </p>    
 
-<p align="right">( <a href="#readme-top">back to top</a> )</p>  
 ------------------------------------
+
+<p align="right"><a href="#readme-top">back to top</a></p> 
 
 
 ### <h3 align="center"> ✨Featured Projects✨</h2>
@@ -115,7 +116,7 @@ $~~~~~$
 <div align="center">
 <table>  
   <!--------WEATHER APP--------->
-<tr style="background-color:000000 !important">
+<tr>
 <td width="50%" valign="top">  
 <h3 align="center">Weather Dashboard</h2>
 <div align="center" >  
@@ -130,14 +131,17 @@ $~~~~~$
   <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=001ac2"/>
   </a>
 </p>
-  
-<p><strong>React, React-Bootstrap, React-Router, Create-React-App, JSX, CSS, Axios</strong></p>
-<p>This app gives the user's local weather and has a dashboard that stores "favorite" locations searched by the user with API integration. These locations' weather can be updated or deleted to make room for another destination. There is also a map page. This project uses the Open weather API and Google's Geo Location API, as well as Google's Static Map API and Directions API.</p>
+ 
+ <p><strong>React, React-Bootstrap, React-Router, Create-React-App, JSX, CSS, Axios</strong></p>
+ <details align="left">
+   <summary><strong>About Project</strong></summary>
+    <p>This app gives the user's local weather and has a dashboard that stores "favorite" locations searched by the user with API     integration. These locations' weather can be updated or deleted to make room for another destination. There is also a map         page. This project uses the Open weather API and Google's Geo Location API, as well as Google's Static Map API and Directions     API.</p>
+ </details>
 </div>
 </td>
 <!--------MOVIE REVIEW APP--------->  
 <td width="50%" valign="top">
-  <h3 align="center" color="blue">MCU Movie Review App</h2>
+  <h3 align="center">MCU Movie Review App</h2>
 
   <div align="center" >  
   <a href='https://nereidarondon.com/'</a>
@@ -154,7 +158,11 @@ $~~~~~$
 </p>
   
 <p><strong>React, React-Bootstrap, Create-React-App, JSX, CSS, Figma</strong></p>
-<p>This Movie App includes all 30 MCU movies from 2008-2022. Movies have a Title, year released, a movie synopsis when user hovers over the image.</p>
+
+ <details align="left">
+   <summary><strong>About Project</strong></summary>    
+    <p>This Movie App includes all 30 MCU movies from 2008-2022. Movies have a Title, year released, a movie synopsis when user       hovers over the image.</p>
+ </details>  
 </div>
 </td>
 </tr>
@@ -167,7 +175,6 @@ $~~~~~$
      
  [Vite and React](https://user-images.githubusercontent.com/97356401/200150937-890d215e-9d52-4566-810a-10330b3a18fa.webm)
 
-   
 <p>
   <a href="https://github.com/NereidaRondon/react-nav.git" target="_blank">
   <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
@@ -178,7 +185,11 @@ $~~~~~$
 </p>
   
 <p><strong>React, React-Router, Vite, JSX, CSS</strong></p>
-<p>This is a fully functional demo application created with React. Using vite and react-router, this simple navbar template can be used for the basis of any single page application.</p>
+
+ <details align="left">
+   <summary><strong>About Project</strong></summary>   
+      <p>This is a fully functional demo application created with React. Using vite and react-router, this simple navbar template       can be used for the basis of any single page application.</p>
+ </details>  
 </div>
 </td>
 
@@ -201,13 +212,20 @@ $~~~~~$
 </p>
   
 <p><strong>HTML5, CSS3, and SCSS</strong></p>
-<p>Created a website to display my work and projects.</p>
+    
+  <details align="left">
+   <summary><strong>About Project</strong></summary>
+    <p>Created a website to display my work and projects.</p>
+  </details>
 </div>
 </tr>
 </table>
 
 $~~~$
-  <p align="right">( <a href="#readme-top">back to top</a> )</p> 
+  
+  <p align="right"><a href="#readme-top">back to top</a></p> 
+  
+  
 ------------------------------------ 
 
 <!--algolia: {
@@ -229,4 +247,4 @@ $~~~$
 
 [![@nereidarondon's Holopin board](https://holopin.io/api/user/board?user=nereidarondon)](https://holopin.io/@nereidarondon)
 
-<p align="right">( <a href="#readme-top">back to top</a> )</p> 
+<p align="right"><a href="#readme-top">back to top</a></p> 
