@@ -3,7 +3,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
   <img align='right' alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png" width='50' height='50'>
 </picture>
-
+<a name="readme-top"></a>
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/nereidarondon/NereidaRondon?style=for-the-badge&color=001ac2)
 
@@ -15,17 +15,19 @@ Check out my [Portfolio 🤓](http://NereidaRondon.com)
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)... I am Nereida Rondon, frontend developer.
 
 
-
-## Table of Contents  
-1. [About me](https://github.com/NereidaRondon/NereidaRondon/blob/main/README.md#about-me)
-2. [Education](https://github.com/NereidaRondon/NereidaRondon/blob/main/README.md#-education)  
-3. [Skill Development](https://github.com/NereidaRondon/NereidaRondon/blob/main/README.md#-skill-development-how-am-i-growing-as-a-software-developer-and-expanding-my-skills)
-4. [What's next?](https://github.com/NereidaRondon/NereidaRondon/blob/main/README.md#-whats-next-things-i-plan-on-learningdoing)
-5. [Skills](https://github.com/NereidaRondon/NereidaRondon/blob/main/README.md#-skills)
-6. [Socials](https://github.com/NereidaRondon/NereidaRondon/blob/main/README.md#-socials) 
-7. [Featured Projects](https://github.com/NereidaRondon/NereidaRondon/blob/main/README.md#-featured-projects) 
-8. [Badges](https://github.com/NereidaRondon/NereidaRondon/blob/main/README.md#-badges) 
-
+<details>
+  <summary><h3>Table of Contents</h3></summary>
+  <ol>
+<li><a href="https://github.com/NereidaRondon/NereidaRondon/blob/main/README.md#about-me">About me</a></li>
+    <li><a href="https://github.com/NereidaRondon/NereidaRondon/blob/main/README.md#-education">Education</a></li>
+    <li><a href="https://github.com/NereidaRondon/NereidaRondon/blob/main/README.md#-skill-development-how-am-i-growing-as-a-software-developer-and-expanding-my-skills">Skill Development</a></li> 
+    <li><a href="https://github.com/NereidaRondon/NereidaRondon/blob/main/README.md#-whats-next-things-i-plan-on-learningdoing">What's next?</a></li> 
+    <li><a href="https://github.com/NereidaRondon/NereidaRondon/blob/main/README.md#-skills">Skills</a></li> 
+    <li><a href="https://github.com/NereidaRondon/NereidaRondon/blob/main/README.md#-socials">Socials</a></li> 
+    <li><a href="https://github.com/NereidaRondon/NereidaRondon/blob/main/README.md#-featured-projects">Featured Projects</a></li> 
+    <li><a href="https://github.com/NereidaRondon/NereidaRondon/blob/main/README.md#-badges">Badges</a></li> 
+  </ol>  
+</details>
 
 ------------------------------
 
@@ -104,16 +106,16 @@ $~~~~~$
 <a href="https://www.codewars.com/users/NereidaRondon"><img class="codewars" src="https://www.codewars.com/users/NereidaRondon/badges/large" alt="Nereida's CodeWars score" width="300"></a>    
 </p>    
 
+<p align="right">( <a href="#readme-top">back to top</a> )</p>  
 ------------------------------------
 
 
 ### <h3 align="center"> ✨Featured Projects✨</h2>
 
 <div align="center">
-<table>
-  
+<table>  
   <!--------WEATHER APP--------->
-<tr>
+<tr style="background-color:000000 !important">
 <td width="50%" valign="top">  
 <h3 align="center">Weather Dashboard</h2>
 <div align="center" >  
@@ -205,6 +207,7 @@ $~~~~~$
 </table>
 
 $~~~$
+  <p align="right">( <a href="#readme-top">back to top</a> )</p> 
 ------------------------------------ 
 
 <!--algolia: {
@@ -226,4 +229,4 @@ $~~~$
 
 [![@nereidarondon's Holopin board](https://holopin.io/api/user/board?user=nereidarondon)](https://holopin.io/@nereidarondon)
 
-
+<p align="right">( <a href="#readme-top">back to top</a> )</p> 
