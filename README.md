@@ -157,7 +157,7 @@ $~~~~~$
   </a></a>
 </p>
   
-<p><strong>React, React-Bootstrap, Create-React-App, JSX, CSS, Figma</strong></p>
+<p><strong>React, Bootstrap, Create-React-App, JSX, CSS, Figma</strong></p>
 
  <details align="left">
    <summary><strong>About Project</strong></summary>    
