@@ -207,12 +207,21 @@ $~~~~~$
 $~~~$
 ------------------------------------ 
 
+<!--algolia: {
+    title_color: "00AEFF",
+    icon_color: "2DDE98",
+    text_color: "FFFFFF",
+    bg_color: "050F2C",
+    bg_color: 050505
+    blue:001ac2
+} -->
+  
 ### 🛡 Badges
 <p align="left">
+   
+ <a href="http://www.github.com/NereidaRondon"><img width="49%" src="https://github-readme-stats.vercel.app/api?username=nereidarondon&bg_color=000&icon_color=2DDE98&text_color=ffffff&title_color=00AEFF&hide_border=true&show_icons=true&ring=00AEFF" /></a>$~~~$<a href="http://www.github.com/NereidaRondon"><img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=NereidaRondon&stroke=ffffff&background=000&ring=00AEFF&fire=2DDE98&currStreakNum=ffffff&currStreakLabel=2DDE98&sideNums=ffffff&sideLabels=ffffff&dates=2DDE98&hide_border=true" /></a>
 
-<a href="http://www.github.com/NereidaRondon"><img src="https://github-readme-stats.vercel.app/api?username=NereidaRondon&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=ec4899&bg_color=0f172a&hide_border=true&show_icons=true" alt="NereidaRondon's GitHub stats" /></a>  <a href="http://www.github.com/NereidaRondon"><img src="https://github-readme-streak-stats.herokuapp.com/?user=NereidaRondon&stroke=ffffff&background=0f172a&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/NereidaRondon"><img src="https://activity-graph.herokuapp.com/graph?username=NereidaRondon&bg_color=0f172a&color=ffffff&line=ec4899&point=ffffff&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/NereidaRondon"><img src="https://activity-graph.herokuapp.com/graph?username=NereidaRondon&bg_color=000000&color=ffffff&line=001ac2&point=00AEFF&area_color=2DDE98&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 
 [![@nereidarondon's Holopin board](https://holopin.io/api/user/board?user=nereidarondon)](https://holopin.io/@nereidarondon)
