@@ -228,21 +228,22 @@ $~~~$
   
 ------------------------------------ 
 
-<!--algolia: {
-    title_color: "00AEFF",
+<!--{
+    light blue title_color: "00AEFF",
     icon_color: "2DDE98",
     text_color: "FFFFFF",
     bg_color: "050F2C",
     bg_color: 050505
-    blue:001ac2
+    royal blue:001ac2
+    purple: 8400ff
 } -->
   
-### 🛡 Badges
+### 👩🏻‍💻 Badges
 <p align="left">
    
- <a href="http://www.github.com/NereidaRondon"><img width="49%" src="https://github-readme-stats.vercel.app/api?username=nereidarondon&bg_color=000&icon_color=2DDE98&text_color=ffffff&title_color=00AEFF&hide_border=true&show_icons=true&ring=00AEFF" /></a>$~~~$<a href="http://www.github.com/NereidaRondon"><img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=NereidaRondon&stroke=ffffff&background=000&ring=00AEFF&fire=2DDE98&currStreakNum=ffffff&currStreakLabel=2DDE98&sideNums=ffffff&sideLabels=ffffff&dates=2DDE98&hide_border=true" /></a>
+ <a href="http://www.github.com/NereidaRondon"><img width="49%" src="https://github-readme-stats.vercel.app/api?username=nereidarondon&bg_color=000&icon_color=8400ff&text_color=ffffff&title_color=00AEFF&show_icons=true&ring=001ac2&hide_border=true" /></a>$~~~$<a href="http://www.github.com/NereidaRondon"><img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=NereidaRondon&stroke=ffffff&background=000&ring=001ac2&fire=8400ff&currStreakNum=ffffff&currStreakLabel=00AEFF&sideNums=ffffff&sideLabels=ffffff&dates=8400ff&hide_border=true" /></a>
 
-<a href="http://www.github.com/NereidaRondon"><img src="https://activity-graph.herokuapp.com/graph?username=NereidaRondon&bg_color=000000&color=ffffff&line=001ac2&point=00AEFF&area_color=2DDE98&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/NereidaRondon"><img src="https://activity-graph.herokuapp.com/graph?username=NereidaRondon&bg_color=000000&color=ffffff&line=001ac2&point=00AEFF&area_color=8400ff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 
 [![@nereidarondon's Holopin board](https://holopin.io/api/user/board?user=nereidarondon)](https://holopin.io/@nereidarondon)
