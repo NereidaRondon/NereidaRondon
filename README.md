@@ -5,7 +5,10 @@
 </picture>
 <a name="readme-top"></a>
 
-![GitHub last commit](https://img.shields.io/github/last-commit/nereidarondon/NereidaRondon?style=for-the-badge&color=001ac2)
+![GitHub last commit](https://img.shields.io/github/last-commit/nereidarondon/NereidaRondon?style=for-the-badge&color=001ac2) 
+![GitHub Followers](https://img.shields.io/github/followers/nereidarondon?color=purple&logo=github&logoColor=black&style=for-the-badge) 
+![GitHub Org's stars](https://img.shields.io/github/stars/nereidarondon?color=deeppink&style=for-the-badge)
+![YouTube Views](https://img.shields.io/youtube/channel/views/UCinpD9noy3Jb9l4OWSMg6uQ?color=red%20&label=YouTube%20Views&style=for-the-badge)
 
 Check out my [Portfolio 🤓](http://NereidaRondon.com)
 
@@ -33,10 +36,11 @@ Check out my [Portfolio 🤓](http://NereidaRondon.com)
 
 ### 👩🏻About me
 
-* 🌍  I'm based in 🌞 Florida
+* 🌍  I want to leave my mark on the world by creating something special AND accessible... 
+* 🌴  My home base is 🌞 Southwest Florida
 * 🖥️  See my [Portfolio Projects](https://nereidarondon.com/projects.html)
 * ✉️  You can contact me at [Nereida.Rondon5@gmail.com](mailto:Nereida.Rondon5@gmail.com)
-* 🤝  I'm open to collaborating on any JavaScript Projects and I'm looking to contribute to open source projects
+* 🤝  I'm open to collaborating on any JavaScript Projects and I'm looking to contribute to open source projects as well
 
 ------------------------------------ 
 
@@ -70,21 +74,14 @@ Check out my [Portfolio 🤓](http://NereidaRondon.com)
 
 ### 🛠 Skills
 <p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>      
-$~~~~$ 
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a> 
-$~~~~$        
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>  
-$~~~~$  
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>   
-$~~~~$           
-<a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a>        
-$~~~~$ 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>       
-$~~~~$ 
-<a href="https://nodejs.org/en/" target="_blank"><img src="https://nodejs.org/static/images/logo.svg" width="50" height="45" alt="Node.js"/></a> 
-$~~~~$ 
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5"/></a>  
+&emsp; <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3"/></a>  
+&emsp; <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>  
+&emsp; <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap"/></a>  
+&emsp; <a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a>  
+&emsp; <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>  
+&emsp; <a href="https://nodejs.org/en/" target="_blank"><img src="https://nodejs.org/static/images/logo.svg" width="50" height="45" alt="Node.js"/></a>  
+&emsp; <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
 <!-- &emsp;<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a> -->
@@ -94,15 +91,15 @@ $~~~~$
 ### 💻 Socials
 <p align="left">
 <a href="https://www.linkedin.com/in/NereidaRondon" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-$~~~~~$
+&emsp;
 <a href="https://www.github.com/NereidaRondon" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-$~~~~~$
+&emsp;
 <a href="https://discord.com/users/NereidaRondon" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
-$~~~~~$
+&emsp;
 <a href="https://www.codepen.io/NereidaRondon" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a> 
-$~~~~~$
+&emsp;
 <a href="https://leetcode.com/NereidaRondon/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/LeetCode_Logo_black_with_text.svg" width='130' alt="LeetCode profile"></a>
-$~~~~~$  
+&emsp; 
 <a href="https://www.codewars.com/users/NereidaRondon"><img class="codewars" src="https://www.codewars.com/users/NereidaRondon/badges/large" alt="Nereida's CodeWars score" width="300"></a>    
 </p>    
 
