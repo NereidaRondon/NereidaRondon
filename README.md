@@ -36,7 +36,7 @@ Check out my [Portfolio 🤓](http://NereidaRondon.com)
 
 ### 👩🏻About me
 
-* 🌍  I want to leave my mark on the world by creating something special AND accessible... 
+* 🌍  I want to leave my mark on the world by creating something special that is accessible to everyone. 
 * 🌴  My home base is 🌞 Southwest Florida
 * 🖥️  See my [Portfolio Projects](https://nereidarondon.com/projects.html)
 * ✉️  You can contact me at [Nereida.Rondon5@gmail.com](mailto:Nereida.Rondon5@gmail.com)
