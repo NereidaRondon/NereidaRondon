@@ -243,10 +243,10 @@ $~~~$
    
  <a href="http://www.github.com/NereidaRondon"><img width="49%" src="https://github-readme-stats.vercel.app/api?username=nereidarondon&bg_color=000&icon_color=8400ff&text_color=ffffff&title_color=00AEFF&show_icons=true&hide_border=true" /></a>$~~~$<a href="http://www.github.com/NereidaRondon"><img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=NereidaRondon&stroke=ffffff&background=000&ring=001ac2&fire=8400ff&currStreakNum=ffffff&currStreakLabel=00AEFF&sideNums=ffffff&sideLabels=ffffff&dates=8400ff&hide_border=true" /></a>
 
-<a href="http://www.github.com/NereidaRondon"><img src="https://activity-graph.herokuapp.com/graph?username=NereidaRondon&bg_color=000000&color=ffffff&line=001ac2&point=00AEFF&area_color=8400ff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<!-- <a href="http://www.github.com/NereidaRondon"><img src="https://activity-graph.herokuapp.com/graph?username=NereidaRondon&bg_color=000000&color=ffffff&line=001ac2&point=00AEFF&area_color=8400ff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> -->
 
   
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ashutosh00710&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  [![Nereida's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=NereidaRondon&theme=react-dark&bg_color=000000&color=ffffff&line=001ac2&point=00AEFF&area_color=8400ff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
 
 [![@nereidarondon's Holopin board](https://holopin.io/api/user/board?user=nereidarondon)](https://holopin.io/@nereidarondon)
