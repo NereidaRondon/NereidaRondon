@@ -49,27 +49,26 @@ Check out my [Portfolio 🤓](http://NereidaRondon.com)
 ### 🏁 Education:
 - Shecodes' Intro to Coding workshop... April 2022 ✔
 - Promineo Tech's 18-week Frontend Dev Boot camp with Florida SouthWestern State College... October 2022 ✔
-- Meta's Front-End Developer Professional Certificate on Coursera... will complete by January 2023🚀
+<!-- - Meta's Front-End Developer Professional Certificate on Coursera... will complete by January 2023🚀 -->
 - Started Promieno Tech's Back-End Developer Boot camp with Florida SouthWestern State College... will complete by March 2023🚀
 
 ------------------------------
 
 ### 🌼 Skill Development: How am I growing as a software developer and expanding my skills?
-- I'm currently working on a website for a local small business 🔨 
-- I'm currently learning Java ☕
-<!--   * Springboot 
-  * SQL -->
+- Completed a website for a local small business 🔒 
+- I'm currently learning Java☕ and MySQL📃
+
 
 ------------------------------
 
 ### 🔮 What's next? Things I plan on learning/doing:
-- Harvard's CS50 on edEx 🧠
-- SQL 📃
-- Springboot 📦
+- MongoDB/Express 🖥️ 
+- Springboot 🍃
 - Contribute to open source projects 💻
 - React Native 📱
-- Tailwind CSS 🍃
+- Tailwind CSS ~💨󠁾
 - TypeScript ✨
+- Harvard's CS50 on edEx 🧠
 
 
 ------------------------------------    
@@ -243,7 +242,7 @@ $~~~$
 ### 👩🏻‍💻 Badges
 <p align="left">
    
- <a href="http://www.github.com/NereidaRondon"><img width="49%" src="https://github-readme-stats.vercel.app/api?username=nereidarondon&bg_color=000&icon_color=8835cc&text_color=ffffff&title_color=00AEFF&show_icons=true&hide_border=true" /></a>$~~~$<a href="http://www.github.com/NereidaRondon"><img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=NereidaRondon&stroke=ffffff&background=000&ring=001ac2&fire=8835cc&currStreakNum=ffffff&currStreakLabel=00AEFF&sideNums=ffffff&sideLabels=ffffff&dates=8835cc&hide_border=true" /></a>
+ <a href="http://www.github.com/NereidaRondon"><img width="49%" src="https://github-readme-stats.vercel.app/api?username=nereidarondon&bg_color=000&icon_color=8835cc&text_color=ffffff&title_color=00AEFF&show_icons=true&hide_border=true" /></a><a href="http://www.github.com/NereidaRondon"><img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=NereidaRondon&stroke=ffffff&background=000&ring=001ac2&fire=8835cc&currStreakNum=ffffff&currStreakLabel=00AEFF&sideNums=ffffff&sideLabels=ffffff&dates=8835cc&hide_border=true" /></a>
 
 <!-- <a href="http://www.github.com/NereidaRondon"><img src="https://activity-graph.herokuapp.com/graph?username=NereidaRondon&bg_color=000000&color=ffffff&line=001ac2&point=00AEFF&area_color=8400ff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> -->
 
