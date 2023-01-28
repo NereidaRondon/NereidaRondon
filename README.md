@@ -237,12 +237,13 @@ $~~~$
     bg_color: 050505
     royal blue:001ac2
     purple: 8400ff
+    bg github: 0d1117
 } -->
   
 ### 👩🏻‍💻 Badges
 <p align="left">
    
- <a href="http://www.github.com/NereidaRondon"><img width="49%" src="https://github-readme-stats.vercel.app/api?username=nereidarondon&bg_color=000&icon_color=8835cc&text_color=ffffff&title_color=00AEFF&show_icons=true&hide_border=true" /></a><a href="http://www.github.com/NereidaRondon"><img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=NereidaRondon&stroke=ffffff&background=000&ring=001ac2&fire=8835cc&currStreakNum=ffffff&currStreakLabel=00AEFF&sideNums=ffffff&sideLabels=ffffff&dates=8835cc&hide_border=true" /></a>
+ <a href="http://www.github.com/NereidaRondon"><img width="49%" src="https://github-readme-stats.vercel.app/api?username=nereidarondon&bg_color=0d1117&icon_color=8835cc&text_color=ffffff&title_color=00AEFF&show_icons=true&hide_border=true" /></a><a href="http://www.github.com/NereidaRondon"><img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=NereidaRondon&stroke=ffffff&background=0d1117&ring=001ac2&fire=8835cc&currStreakNum=ffffff&currStreakLabel=00AEFF&sideNums=ffffff&sideLabels=ffffff&dates=8835cc&hide_border=true" /></a>
 
 <!-- <a href="http://www.github.com/NereidaRondon"><img src="https://activity-graph.herokuapp.com/graph?username=NereidaRondon&bg_color=000000&color=ffffff&line=001ac2&point=00AEFF&area_color=8400ff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> -->
 
