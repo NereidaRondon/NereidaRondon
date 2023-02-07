@@ -50,12 +50,13 @@ Check out my [Portfolio 🤓](http://NereidaRondon.com)
 - Shecodes' Intro to Coding workshop... April 2022 ✔
 - Promineo Tech's 18-week Frontend Dev Boot camp with Florida SouthWestern State College... October 2022 ✔
 <!-- - Meta's Front-End Developer Professional Certificate on Coursera... will complete by January 2023🚀 -->
-- Started Promieno Tech's Back-End Developer Boot camp with Florida SouthWestern State College... will complete by March 2023🚀
+- Started Promineo Tech's Back-End Developer Boot camp with Florida SouthWestern State College... will complete by March 2023🚀
 
 ------------------------------
 
 ### 🌼 Skill Development: How am I growing as a software developer and expanding my skills?
-- Completed a website for a local small business 🔒 
+- Completed a website for a local small business 🔒
+- Creating Learning Content for Promineo Tech 
 - I'm currently learning Java☕ and MySQL📃
 
 
