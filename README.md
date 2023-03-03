@@ -10,7 +10,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/nereidarondon/NereidaRondon?style=for-the-badge&color=001ac2) 
 ![GitHub Followers](https://img.shields.io/github/followers/nereidarondon?color=purple&logo=github&style=for-the-badge) 
 ![GitHub stars](https://img.shields.io/github/stars/nereidarondon?color=deeppink&logo=github&style=for-the-badge)
-![YouTube Views](https://img.shields.io/youtube/channel/views/UCinpD9noy3Jb9l4OWSMg6uQ?color=red%20&logo=youtube&style=for-the-badge)
+![YouTube Views](https://img.shields.io/youtube/channel/views/UCinpD9noy3Jb9l4OWSMg6uQ?color=red%20&logo=youtube&style=for-the-badge) 
 
 Check out my [Portfolio 🤓](http://NereidaRondon.com)
 
