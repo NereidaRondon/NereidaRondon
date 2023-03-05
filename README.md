@@ -49,27 +49,27 @@ Check out my [Portfolio 🤓](http://NereidaRondon.com)
 ### 🏁 Education:
 - Shecodes' Intro to Coding workshop... April 2022 ✔
 - Promineo Tech's 18-week Frontend Dev Boot camp with Florida SouthWestern State College... October 2022 ✔
+- Promineo Tech's 18-week Back-End Developer Boot camp with Florida SouthWestern State College... March 2023 ✔
 <!-- - Meta's Front-End Developer Professional Certificate on Coursera... will complete by January 2023🚀 -->
-- Started Promineo Tech's Back-End Developer Boot camp with Florida SouthWestern State College... will complete by March 2023🚀
+
 
 ------------------------------
 
 ### 🌼 Skill Development: How am I growing as a software developer and expanding my skills?
 - Completed a website for a local small business 🔒
 - Creating Learning Content for Promineo Tech 
-- I'm currently learning Java☕ and MySQL📃
+- I'm currently learning Java☕, MySQL📃, and Springboot🍃
 
 
 ------------------------------
 
 ### 🔮 What's next? Things I plan on learning/doing:
 - MongoDB/Express 🖥️ 
-- Springboot 🍃
-- Contribute to open source projects 💻
-- React Native 📱
-- Tailwind CSS ~💨󠁾
 - TypeScript ✨
+- Tailwind CSS ~💨󠁾
+- React Native 📱
 - Harvard's CS50 on edEx 🧠
+- Contribute to open source projects 💻
 
 
 ------------------------------------    
@@ -125,6 +125,7 @@ Check out my [Portfolio 🤓](http://NereidaRondon.com)
   
   [Weather Dashboard](https://user-images.githubusercontent.com/97356401/200140593-73171a2f-66e0-4524-86ed-930e2618b2a8.webm)
 
+<br>  
 <p>
   <a href="https://github.com/NereidaRondon/Weather.git" target="_blank">
   <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
@@ -150,6 +151,7 @@ Check out my [Portfolio 🤓](http://NereidaRondon.com)
 
   [Movie Review](https://user-images.githubusercontent.com/97356401/200150968-b07db472-0386-4460-819c-dd7e721eaae3.webm)
 
+<br>    
 <p>
   <a href="https://github.com/NereidaRondon/MCUMovies.git" target="_blank">
   <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
@@ -177,6 +179,7 @@ Check out my [Portfolio 🤓](http://NereidaRondon.com)
      
  [Vite and React](https://user-images.githubusercontent.com/97356401/200150937-890d215e-9d52-4566-810a-10330b3a18fa.webm)
 
+<br>
 <p>
   <a href="https://github.com/NereidaRondon/react-nav.git" target="_blank">
   <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
@@ -203,7 +206,8 @@ Check out my [Portfolio 🤓](http://NereidaRondon.com)
   <a href='https://nereidarondon.com/'</a>
 
   [My Portfolio](https://user-images.githubusercontent.com/97356401/200138812-62cdd440-7e18-4007-b4dc-aa8fe04f202f.webm)
-
+    
+<br>
 <p>
   <a href="https://github.com/NereidaRondon/MyPortfolio.git" target="_blank">
   <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
@@ -213,7 +217,7 @@ Check out my [Portfolio 🤓](http://NereidaRondon.com)
   </a></a>
 </p>
   
-<p><strong>HTML5, CSS3, and SCSS</strong></p>
+<p><strong>HTML5, CSS3, JQuery, and SCSS</strong></p>
     
   <details align="left">
    <summary><strong>About Project</strong></summary>
