@@ -129,7 +129,7 @@ Check out my [Portfolio 🤓](http://NereidaRondon.com)
   <a href="https://github.com/NereidaRondon/Weather.git" target="_blank">
   <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
     
-  <a href="https://nereidarondon.github.io/Weather/" target="_blank">
+  <a href="https://myweatherdashboard.netlify.app/" target="_blank">
   <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=001ac2"/>
   </a>
 </p>
