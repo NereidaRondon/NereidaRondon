@@ -127,7 +127,7 @@ Check out my [Portfolio 🤓](http://NereidaRondon.com)
 
 <br>  
 <p>
-  <a href="https://github.com/NereidaRondon/Weather.git" target="_blank">
+  <a href="https://github.com/NereidaRondon/weather-dashboard/blob/main/README.md" target="_blank">
   <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
     
   <a href="https://myweatherdashboard.netlify.app/" target="_blank">
