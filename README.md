@@ -17,7 +17,7 @@ Check out my [Portfolio 🤓](http://NereidaRondon.com)
 ![image](https://user-images.githubusercontent.com/97356401/198838136-080bb193-be4d-4380-8e7a-ee02bdf2ba4a.png)
 
 
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)... I am Nereida Rondon, frontend developer.
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)... I am Nereida Rondon, Instructional Designer and Front-end developer.
 
 
 <details>
@@ -40,7 +40,7 @@ Check out my [Portfolio 🤓](http://NereidaRondon.com)
 
 * 🌍  I want to leave my mark on the world by contributing to the edTech space. 
 * 🌴  My home base is 🌞 Southwest Florida
-* 🖥️  See my [Portfolio Projects](https://nereidarondon.com/projects.html)
+* 🖥️  See my [Portfolio Projects](https://nereidarondon.com/projects)
 * ✉️  You can contact me at [Nereida.Rondon5@gmail.com](mailto:Nereida.Rondon5@gmail.com)
 * 🤝  I'm open to collaborating on any JavaScript Projects and I'm looking to contribute to open source projects as well
 
@@ -209,7 +209,7 @@ Check out my [Portfolio 🤓](http://NereidaRondon.com)
     
 <br>
 <p>
-  <a href="https://github.com/NereidaRondon/MyPortfolio.git" target="_blank">
+  <a href="https://github.com/NereidaRondon/id-portfolio.git" target="_blank">
   <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
     
   <a href="https://nereidarondon.com/" target="_blank">
