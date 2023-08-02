@@ -144,7 +144,7 @@ Check out my [Portfolio 🤓](http://NereidaRondon.com)
   </a>
 </p>
  
- <p><strong>React, React-Bootstrap, React-Router, Create-React-App, JSX, CSS, Axios</strong></p>
+ <p><strong>React, React-Bootstrap, React-Router, Create-React-App, JSX, CSS, Axios, deployed on Netlify</strong></p>
  <details align="left">
    <summary><strong>About Project</strong></summary>
     <p>This app gives the user's local weather and has a dashboard that stores "favorite" locations searched by the user with API     integration. These locations' weather can be updated or deleted to make room for another destination. There is also a map         page. This project uses the Open weather API and Google's Geo Location API, as well as Google's Static Map API and Directions     API.</p>
@@ -170,7 +170,7 @@ Check out my [Portfolio 🤓](http://NereidaRondon.com)
   </a></a>
 </p>
   
-<p><strong>React, Bootstrap, Create-React-App, JSX, CSS, Figma</strong></p>
+<p><strong>React, Bootstrap, Create-React-App, JSX, CSS, Figma, deployed on GitHub pages</strong></p>
 
  <details align="left">
    <summary><strong>About Project</strong></summary>    
@@ -198,11 +198,11 @@ Check out my [Portfolio 🤓](http://NereidaRondon.com)
   </a>
 </p>
   
-<p><strong>React, React-Router, Vite, JSX, CSS</strong></p>
+<p><strong>React, React-Router, Vite, JSX, CSS, deployed on Netlify</strong></p>
 
  <details align="left">
    <summary><strong>About Project</strong></summary>   
-      <p>This is a fully functional demo application created with React. Using vite and react-router, this simple navbar template       can be used for the basis of any single page application.</p>
+      <p>This is a fully functional demo application created with React. Using vite and react-router, this simple navbar template can be used for the basis of any single page application.</p>
  </details>  
 </div>
 </td>
@@ -218,7 +218,7 @@ Check out my [Portfolio 🤓](http://NereidaRondon.com)
     
 <br>
 <p>
-  <a href="https://github.com/NereidaRondon/id-portfolio.git" target="_blank">
+  <a href="https://github.com/NereidaRondon/portfolio.git" target="_blank">
   <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
     
   <a href="https://nereidarondon.com/" target="_blank">
@@ -226,11 +226,11 @@ Check out my [Portfolio 🤓](http://NereidaRondon.com)
   </a></a>
 </p>
   
-<p><strong>HTML5, CSS3, JQuery, and SCSS</strong></p>
+<p><strong>React, React-Router, CSS3, Material UI, Vite, deployed on Netlify</strong></p>
     
   <details align="left">
    <summary><strong>About Project</strong></summary>
-    <p>Created a website to display my work and projects.</p>
+    <p>Created a portfolio website to display my work and projects.</p>
   </details>
 </div>
 </tr>
