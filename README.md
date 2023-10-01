@@ -17,7 +17,7 @@ Check out my [Portfolio 🤓](http://NereidaRondon.com)
 ![image](https://user-images.githubusercontent.com/97356401/198838136-080bb193-be4d-4380-8e7a-ee02bdf2ba4a.png)
 
 
-# Hi 👋, I am Nereida Rondon, Instructional Designer and Front-end developer.
+<h1>Hi 👋, I am Nereida Rondon, Instructional Designer and Front-end developer.</h1>
 
 
 <details>
