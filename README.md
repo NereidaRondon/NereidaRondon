@@ -38,7 +38,7 @@ Check out my [Portfolio 🤓](http://NereidaRondon.com)
 
 ### 👩🏻About me
 
-* 🌍  I want to leave my mark on the world by contributing to the edTech space. 
+* 🌍  I want to leave my mark by going further than my economic status, gender, or ethincity thought possible. 
 * 🌴  My home base is 🌞 Southwest Florida
 * 🖥️  See my [Portfolio Projects](https://nereidarondon.com/projects)
 * ✉️  You can contact me at [Nereida.Rondon5@gmail.com](mailto:Nereida.Rondon5@gmail.com)
@@ -51,7 +51,7 @@ Check out my [Portfolio 🤓](http://NereidaRondon.com)
 - Promineo Tech's 18-week Frontend Dev Boot camp with Florida SouthWestern State College... October 2022 ✔
 - Promineo Tech's 18-week Back-End Developer Boot camp with Florida SouthWestern State College... March 2023 ✔
 - Scrimba's Frontend Path Course... December 2023 🚀
-<!-- - Meta's Front-End Developer Professional Certificate on Coursera... will complete by January 2024🚀 -->
+<!-- - Meta's Front-End Developer Professional Certificate on Coursera... will complete by June 2024🚀 -->
 
 
 ------------------------------
@@ -60,6 +60,7 @@ Check out my [Portfolio 🤓](http://NereidaRondon.com)
 - Completed a website for a local small business 🔒 
 - I'm currently learning advanced React and Firebase📃
 - Building a Fullstack project [MathSpace🪐](https://www.math-space.netlify.app)
+    -- Frontend is done
 
 
 ------------------------------
