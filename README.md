@@ -38,11 +38,14 @@ Check out my [Portfolio 🤓](http://NereidaRondon.com)
 
 ### 👩🏻About me
 
-* 🌍  I want to leave my mark by going further than my economic status, gender, or ethincity thought possible. 
-* 🌴  My home base is 🌞 Southwest Florida
-* 🖥️  See my [Portfolio Projects](https://nereidarondon.com/projects)
-* ✉️  You can contact me at [Nereida.Rondon5@gmail.com](mailto:Nereida.Rondon5@gmail.com)
-* 🤝  I'm open to collaborating on any JavaScript Projects and I'm looking to contribute to open source projects as well
+* 🌍 Former Math teacher, boot camp graduate, and now self-teaching software engineer.
+* 🌴 My home base is 🌞 Southwest Florida
+* 🧠 I've taken the initiative in my professional development by continuing to learn and grow as a software engineer on my free time because I believe in forging my own path rather than waiting for opportunities to come knocking.
+* ✨ My non-traditional background brings a fresh perspective to problem-solving, with a deep commitment to self-growth.
+* 💻 Gaining software experience through available opportunities like building in public and [Chingu.io](https://www.chingu.io/)
+* 🖥️ See my [Portfolio Projects](https://nereidarondon.com/projects)
+* ✉️ You can contact me at [Nereida.Rondon5@gmail.com](mailto:Nereida.Rondon5@gmail.com)
+* 🤝 I'm open to collaborating on any JavaScript Projects and I'm looking to contribute to open source projects as well
 
 ------------------------------------ 
 
@@ -69,7 +72,7 @@ Check out my [Portfolio 🤓](http://NereidaRondon.com)
 - Contribute to more open source projects 💻
 - TypeScript ✨ 󠁾
 - React Native 📱
-- Harvard's CS50 on edEx 🧠
+- Harvard's CS50 on edEx 📖
 
 
 ------------------------------------    
