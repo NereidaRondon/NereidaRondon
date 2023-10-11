@@ -40,7 +40,7 @@ Check out my [Portfolio 🤓](http://NereidaRondon.com)
 
 * 🌍 Former Math teacher, boot camp graduate, and now self-teaching software engineer.
 * 🌴 My home base is 🌞 Southwest Florida
-* 🧠 I've taken the initiative in my professional development by continuing to learn and grow as a software engineer on my free time because I believe in forging my own path rather than waiting for opportunities to come knocking.
+* 🧠 I've taken the initiative in my professional development by continuing to learn and grow as a software engineer on my free time because I believe in forging my own path rather than waiting for opportunities to come knocking. (Wouldnt be mad if one did knock on my door though 😂)
 * ✨ My non-traditional background brings a fresh perspective to problem-solving, with a deep commitment to self-growth.
 * 💻 Gaining software experience through available opportunities like building in public and [Chingu.io](https://www.chingu.io/)
 * 🖥️ See my [Portfolio Projects](https://nereidarondon.com/projects)
@@ -52,8 +52,8 @@ Check out my [Portfolio 🤓](http://NereidaRondon.com)
 ### 🏁 Education:
 - Shecodes' Intro to Coding workshop... April 2022 ✔
 - Promineo Tech's 18-week Frontend Dev Boot camp with Florida SouthWestern State College... October 2022 ✔
-- Promineo Tech's 18-week Back-End Developer Boot camp with Florida SouthWestern State College... March 2023 ✔
-- Scrimba's Frontend Path Course... December 2023 🚀
+<!--- Promineo Tech's 18-week Back-End Developer Boot camp with Florida SouthWestern State College... March 2023 ✔-->
+- Scrimba's Frontend Path Course... Febraury 2024 🚀
 <!-- - Meta's Front-End Developer Professional Certificate on Coursera... will complete by June 2024🚀 -->
 
 
@@ -63,7 +63,9 @@ Check out my [Portfolio 🤓](http://NereidaRondon.com)
 - Completed a website for a local small business 🔒 
 - I'm currently learning advanced React and Firebase📃
 - Building a Fullstack project [MathSpace🪐](https://www.math-space.netlify.app)
-    -- Frontend is done
+    -- Frontend is done ✔️
+    -- Login/Authorization with Google, in progress 🚧
+    -- Backend, store user data🚧
 
 
 ------------------------------
