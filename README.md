@@ -17,7 +17,7 @@ Check out my [Portfolio 🤓](http://NereidaRondon.com)
 ![image](https://user-images.githubusercontent.com/97356401/198838136-080bb193-be4d-4380-8e7a-ee02bdf2ba4a.png)
 
 
-<h1>Hi 👋, I am Nereida Rondon, Instructional Designer and Front-end developer.</h1>
+<h1>Hi 👋, I am Nereida Rondon, Front-end developer.</h1>
 
 
 <details>
@@ -25,6 +25,7 @@ Check out my [Portfolio 🤓](http://NereidaRondon.com)
   <ol>
 <li><a href="https://github.com/NereidaRondon/NereidaRondon/blob/main/README.md#about-me">About me</a></li>
     <li><a href="https://github.com/NereidaRondon/NereidaRondon/blob/main/README.md#-education">Education</a></li>
+    <li><a href="https://github.com/NereidaRondon/NereidaRondon/blob/main/README.md#-front-end-experience">Front-end Experience</a></li>
     <li><a href="https://github.com/NereidaRondon/NereidaRondon/blob/main/README.md#-skill-development-how-am-i-growing-as-a-software-developer-and-expanding-my-skills">Skill Development</a></li> 
     <li><a href="https://github.com/NereidaRondon/NereidaRondon/blob/main/README.md#-whats-next-things-i-plan-on-learningdoing">What's next?</a></li> 
     <li><a href="https://github.com/NereidaRondon/NereidaRondon/blob/main/README.md#-skills">Skills</a></li> 
@@ -56,6 +57,13 @@ Check out my [Portfolio 🤓](http://NereidaRondon.com)
 - Scrimba's Frontend Path Course... Febraury 2024 🚀
 <!-- - Meta's Front-End Developer Professional Certificate on Coursera... will complete by June 2024🚀 -->
 
+### Front-end Experience:
+- [Chingu](https://www.chingu.io/) 
+  - [Voyage 46 Repo](https://github.com/chingu-voyages/v46-tier1-team-05)
+    - 6-week Project
+    - Collaborated with 2 other Developers and 1 UX/UI Designer
+    - Created an App using Agile Methodologies
+ - Voyage 47 Repo Coming in January 2024
 
 ------------------------------
 
