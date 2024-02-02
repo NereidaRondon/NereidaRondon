@@ -17,7 +17,7 @@ Check out my [Portfolio 🤓](http://NereidaRondon.com)
 ![image](https://user-images.githubusercontent.com/97356401/198838136-080bb193-be4d-4380-8e7a-ee02bdf2ba4a.png)
 
 
-<h1>Hi 👋, I am Nereida Rondon, Front-end developer.</h1>
+<h1>Hi 👋, I am Nereida Rondon, Software Engineer.</h1>
 
 
 <details>
@@ -54,7 +54,7 @@ Check out my [Portfolio 🤓](http://NereidaRondon.com)
 - Shecodes' Intro to Coding workshop... April 2022 ✔
 - Promineo Tech's 18-week Frontend Dev Boot camp with Florida SouthWestern State College... October 2022 ✔
 <!--- Promineo Tech's 18-week Back-End Developer Boot camp with Florida SouthWestern State College... March 2023 ✔-->
-- Scrimba's Frontend Path Course... Febraury 2024 🚀
+- Scrimba's Frontend Path Course... December 2024 🚀
 <!-- - Meta's Front-End Developer Professional Certificate on Coursera... will complete by June 2024🚀 -->
 
 ### Front-end Experience:
@@ -63,7 +63,6 @@ Check out my [Portfolio 🤓](http://NereidaRondon.com)
     - 6-week Project
     - Collaborated with 2 other Developers and 1 UX/UI Designer
     - Created an App using Agile Methodologies
- - Voyage 47 Repo Coming in January 2024
 
 ------------------------------
 
