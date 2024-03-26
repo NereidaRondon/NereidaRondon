@@ -140,9 +140,44 @@ Check out my [Portfolio 🤓](http://NereidaRondon.com)
 ### <h3 align="center"> ✨Featured Projects✨</h2>
 
 <div align="center">
-<table>  
-  <!--------WEATHER APP--------->
+<table>
 <tr>
+  
+<!--------MATH SPACE--------->  
+<td width="50%" valign="top">  
+  <h3 align="center" color="blue">MathSpace</h2>
+
+  <div align="center" >  
+  <a href='https://math-space.netlify.app/'></a>
+
+
+![MathSpace](https://github.com/NereidaRondon/NereidaRondon/assets/97356401/c8e42515-2248-4250-a090-9f2f7e14d069)
+
+  
+    
+<br>
+<p>
+  <a href="https://github.com/NereidaRondon/mathspace" target="_blank">
+  <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
+    
+  <a href="https://math-space.netlify.app/" target="_blank">
+  <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=001ac2"/>
+  </a></a>
+</p>
+  
+<p><strong>React, React-Router, JSX, CSS3, Tailwind CSS, Vite, Adobe Illustrator, deployed on Netlify</strong></p>
+    
+  <details align="left">
+   <summary><strong>About Project</strong></summary>
+    <p>A space themed math practice website for elementary school-aged students.</p>
+  </details>
+</div>
+</td>
+
+
+
+  
+  <!--------WEATHER APP--------->
 <td width="50%" valign="top">  
 <h3 align="center">Weather Dashboard</h2>
 <div align="center" >  
@@ -166,6 +201,9 @@ Check out my [Portfolio 🤓](http://NereidaRondon.com)
  </details>
 </div>
 </td>
+</tr>
+
+<tr>
 <!--------MOVIE REVIEW APP--------->  
 <td width="50%" valign="top">
   <h3 align="center">MCU Movie Review App</h2>
@@ -193,10 +231,9 @@ Check out my [Portfolio 🤓](http://NereidaRondon.com)
  </details>  
 </div>
 </td>
-</tr>
+
 
 <!--------NAVBAR--------->
-<tr>
 <td width="50%" valign="top">
 <h3 align="center">Single Page App</h2>
  <div align="center" >   
@@ -222,37 +259,11 @@ Check out my [Portfolio 🤓](http://NereidaRondon.com)
 </div>
 </td>
 
-<!--------PORTFOLIO--------->  
-<td width="50%" valign="top">  
-  <h3 align="center" color="blue">Portfolio</h2>
-
-  <div align="center" >  
-  <a href='https://nereidarondon.com/'</a>
-
-  [My Portfolio](https://user-images.githubusercontent.com/97356401/200138812-62cdd440-7e18-4007-b4dc-aa8fe04f202f.webm)
-    
-<br>
-<p>
-  <a href="https://github.com/NereidaRondon/portfolio.git" target="_blank">
-  <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
-    
-  <a href="https://nereidarondon.com/" target="_blank">
-  <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=001ac2"/>
-  </a></a>
-</p>
-  
-<p><strong>React, React-Router, CSS3, Material UI, Vite, deployed on Netlify</strong></p>
-    
-  <details align="left">
-   <summary><strong>About Project</strong></summary>
-    <p>Created a portfolio website to display my work and projects.</p>
-  </details>
-</div>
 </tr>
 </table>
 
 $~~~$
-  
+ 
   <p align="right"><a href="#readme-top">back to top</a></p> 
   
   
