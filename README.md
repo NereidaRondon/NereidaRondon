@@ -12,9 +12,12 @@
 ![GitHub stars](https://img.shields.io/github/stars/nereidarondon?color=deeppink&logo=github&style=for-the-badge)
 
 
+
 Check out my [Portfolio 🤓](http://NereidaRondon.com)
 
-![image](https://user-images.githubusercontent.com/97356401/198838136-080bb193-be4d-4380-8e7a-ee02bdf2ba4a.png)
+
+
+![bitmoji github](https://github.com/NereidaRondon/NereidaRondon/assets/97356401/b393f778-689e-4caf-b947-a270f4b73bcd)
 
 
 <h1>Hi 👋, I am Nereida Rondon, Software Engineer.</h1>
@@ -32,6 +35,7 @@ Check out my [Portfolio 🤓](http://NereidaRondon.com)
     <li><a href="https://github.com/NereidaRondon/NereidaRondon/blob/main/README.md#-socials">Socials</a></li> 
     <li><a href="https://github.com/NereidaRondon/NereidaRondon/blob/main/README.md#-featured-projects">Featured Projects</a></li> 
     <li><a href="https://github.com/NereidaRondon/NereidaRondon/blob/main/README.md#-badges">Badges</a></li> 
+    <li><a href="https://github.com/NereidaRondon/NereidaRondon/blob/main/README.md#-github-trophies">GitHub Trophies</a></li> 
   </ol>  
 </details>
 
@@ -41,9 +45,9 @@ Check out my [Portfolio 🤓](http://NereidaRondon.com)
 
 * 🌍 Former Math teacher, boot camp graduate, and now self-teaching software engineer.
 * 🌴 My home base is 🌞 Southwest Florida
-* 🧠 I've taken the initiative in my professional development by continuing to learn and grow as a software engineer on my free time because I believe in forging my own path rather than waiting for opportunities to come knocking. (Wouldnt be mad if one did knock on my door though 😂)
+* 🧠 I've taken the initiative in my professional development by continuing to learn and grow as a software engineer on my free time because I believe in forging my own path rather than waiting for opportunities to come knocking. (Wouldn't be mad if one did knock on my door though 😂)
 * ✨ My non-traditional background brings a fresh perspective to problem-solving, with a deep commitment to self-growth.
-* 💻 Gaining software experience through available opportunities like building in public and [Chingu.io](https://www.chingu.io/)
+* 💻 Gaining software experience through available opportunities like [Chingu.io](https://www.chingu.io/) and internships.
 * 🖥️ See my [Portfolio Projects](https://nereidarondon.com/projects)
 * ✉️ You can contact me at [Nereida.Rondon5@gmail.com](mailto:Nereida.Rondon5@gmail.com)
 * 🤝 I'm open to collaborating on any JavaScript Projects and I'm looking to contribute to open source projects as well
@@ -67,21 +71,22 @@ Check out my [Portfolio 🤓](http://NereidaRondon.com)
 ------------------------------
 
 ### 🌼 Skill Development: How am I growing as a software developer and expanding my skills?
-- Completed a website for a local small business 🔒 
-- I'm currently learning advanced React and Firebase📃
+- Completed a website for a local small business 🔒
+- Pursuing a Bachelor's degree in Computer Science from FIU
+<!--- I'm currently learning advanced React and Firebase📃
 - Building a Fullstack project [MathSpace🪐](https://www.math-space.netlify.app)
     -- Frontend is done ✔️
     -- Login/Authorization with Google, in progress 🚧
-    -- Backend, store user data🚧
+    -- Backend, store user data🚧 -->
 
 
 ------------------------------
 
 ### 🔮 What's next? Things I plan on learning/doing: 
 - Contribute to more open source projects 💻
+- Python 🐍
 - TypeScript ✨ 󠁾
 - React Native 📱
-- Harvard's CS50 on edEx 📖
 
 
 ------------------------------------    
@@ -158,11 +163,11 @@ Check out my [Portfolio 🤓](http://NereidaRondon.com)
 <br>
 <p>
   <a href="https://github.com/NereidaRondon/mathspace" target="_blank">
-  <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/></a>
     
   <a href="https://math-space.netlify.app/" target="_blank">
   <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=001ac2"/>
-  </a></a>
+  </a>
 </p>
   
 <p><strong>React, React-Router, JSX, CSS3, Tailwind CSS, Vite, Adobe Illustrator, deployed on Netlify</strong></p>
@@ -187,7 +192,7 @@ Check out my [Portfolio 🤓](http://NereidaRondon.com)
 <br>  
 <p>
   <a href="https://github.com/NereidaRondon/weather-dashboard/blob/main/README.md" target="_blank">
-  <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/></a>
     
   <a href="https://myweatherdashboard.netlify.app/" target="_blank">
   <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=001ac2"/>
@@ -216,11 +221,11 @@ Check out my [Portfolio 🤓](http://NereidaRondon.com)
 <br>    
 <p>
   <a href="https://github.com/NereidaRondon/MCUMovies.git" target="_blank">
-  <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/></a>
     
   <a href="https://nereidarondon.github.io/MCUMovies/" target="_blank">
   <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=001ac2"/>
-  </a></a>
+  </a>
 </p>
   
 <p><strong>React, Bootstrap, Create-React-App, JSX, CSS, Figma, deployed on GitHub pages</strong></p>
@@ -243,7 +248,7 @@ Check out my [Portfolio 🤓](http://NereidaRondon.com)
 <br>
 <p>
   <a href="https://github.com/NereidaRondon/react-nav.git" target="_blank">
-  <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github"/></a>
     
   <a href="https://sugarplumfairy.netlify.app/" target="_blank">
   <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=001ac2"/>
@@ -281,22 +286,32 @@ $~~~$
 } -->
   
 ### 👩🏻‍💻 Badges
-<p align="left">
+<div align="center">
 
-
-   
-
-<a href="http://www.github.com/nereidarondon"><img src="https://github-readme-stats.vercel.app/api?username=nereidarondon&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=a855f7&bg_color=000000&hide_border=true&show_icons=true" alt="nereidarondon's GitHub stats" /></a>
-
-<a href="http://www.github.com/nereidarondon"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nereidarondon&stroke=ffffff&background=000000&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/nereidarondon" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nereidarondon&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=a855f7&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="http://www.github.com/nereidarondon"><img src="https://github-readme-stats.vercel.app/api?username=nereidarondon&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=a855f7&bg_color=000000&hide_border=true&show_icons=true" alt="nereidarondon's GitHub stats" /></a><a href="http://www.github.com/nereidarondon"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nereidarondon&stroke=ffffff&background=000000&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+</div>
 
   
+<!--
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nereidarondon&bg_color=000000&color=ffffff&line=690fc2&point=2b6dc7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+-->
 
 
 [![An image of @nereidarondon's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nereidarondon)](https://holopin.io/@nereidarondon)
 
 
-
 <p align="right"><a href="#readme-top">back to top</a></p> 
+
+------------------------------------ 
+
+
+### 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=nereidarondon&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+
+
+<!--Footer--> 
+
+  [<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=75&width=auto&section=footer"/>](https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer&reversal=false&textBg=false&descAlign=55&descAlignY=55)
+
