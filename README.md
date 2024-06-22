@@ -43,11 +43,11 @@ Check out my [Portfolio 🤓](http://NereidaRondon.com)
 
 ### 👩🏻About me
 
-* 🌍 Former Math teacher, boot camp graduate, and now self-teaching software engineer.
+* 🌍 Former Math teacher, boot camp graduate, and now Computer Science student, soon to be software engineer.
 * 🌴 My home base is 🌞 Southwest Florida
 * 🧠 I've taken the initiative in my professional development by continuing to learn and grow as a software engineer on my free time because I believe in forging my own path rather than waiting for opportunities to come knocking. (Wouldn't be mad if one did knock on my door though 😂)
 * ✨ My non-traditional background brings a fresh perspective to problem-solving, with a deep commitment to self-growth.
-* 💻 Gaining software experience through available opportunities like [Chingu.io](https://www.chingu.io/) and internships.
+* 💻 Seeking to gain software experience through available opportunities like [Chingu.io](https://www.chingu.io/) and internships.
 * 🖥️ See my [Portfolio Projects](https://nereidarondon.com/projects)
 * ✉️ You can contact me at [Nereida.Rondon5@gmail.com](mailto:Nereida.Rondon5@gmail.com)
 * 🤝 I'm open to collaborating on any JavaScript Projects and I'm looking to contribute to open source projects as well
@@ -58,7 +58,7 @@ Check out my [Portfolio 🤓](http://NereidaRondon.com)
 - Shecodes' Intro to Coding workshop... April 2022 ✔
 - Promineo Tech's 18-week Frontend Dev Boot camp with Florida SouthWestern State College... October 2022 ✔
 <!--- Promineo Tech's 18-week Back-End Developer Boot camp with Florida SouthWestern State College... March 2023 ✔-->
-- Scrimba's Frontend Path Course... December 2024 🚀
+- Scrimba's Frontend Path Course... in progress 🚀
 <!-- - Meta's Front-End Developer Professional Certificate on Coursera... will complete by June 2024🚀 -->
 
 ### Front-end Experience:
