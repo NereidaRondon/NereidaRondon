@@ -20,7 +20,7 @@ Check out my [Portfolio 🤓](http://NereidaRondon.com)
 ![bitmoji github](https://github.com/NereidaRondon/NereidaRondon/assets/97356401/b393f778-689e-4caf-b947-a270f4b73bcd)
 
 
-<h1>Hi 👋, I am Nereida Rondon, Software Engineer.</h1>
+<h1>Hi 👋, I am Nereida Rondon, Full Stack Developer.</h1>
 
 
 <details>
@@ -43,14 +43,14 @@ Check out my [Portfolio 🤓](http://NereidaRondon.com)
 
 ### 👩🏻About me
 
-* 🌍 Former Math teacher, boot camp graduate, and now Computer Science student, soon to be software engineer.
+* 🌍 Former Math teacher, boot camp graduate, Computer Science student, and Web Applications Developer.
 * 🌴 My home base is 🌞 Southwest Florida
 * 🧠 I've taken the initiative in my professional development by continuing to learn and grow as a software engineer on my free time because I believe in forging my own path rather than waiting for opportunities to come knocking. (Wouldn't be mad if one did knock on my door though 😂)
 * ✨ My non-traditional background brings a fresh perspective to problem-solving, with a deep commitment to self-growth.
 * 💻 Seeking to gain software experience through available opportunities like [Chingu.io](https://www.chingu.io/) and internships.
 * 🖥️ See my [Portfolio Projects](https://nereidarondon.com/projects)
 * ✉️ You can contact me at [Nereida.Rondon5@gmail.com](mailto:Nereida.Rondon5@gmail.com)
-* 🤝 I'm open to collaborating on any JavaScript Projects and I'm looking to contribute to open source projects as well
+* 🤝 I'm open to collaborating on projects and I'm looking to contribute to open source projects as well
 
 ------------------------------------ 
 
@@ -84,8 +84,8 @@ Check out my [Portfolio 🤓](http://NereidaRondon.com)
 
 ### 🔮 What's next? Things I plan on learning/doing: 
 - Contribute to more open source projects 💻
-- Python 🐍
 - TypeScript ✨ 󠁾
+- Python 🐍
 - React Native 📱
 
 
@@ -130,12 +130,12 @@ Check out my [Portfolio 🤓](http://NereidaRondon.com)
 &emsp;
 <a href="https://discord.com/users/NereidaRondon" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
 &emsp;
-<a href="https://www.codepen.io/NereidaRondon" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a> 
-&emsp;
+<!-- <a href="https://www.codepen.io/NereidaRondon" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a> 
+&emsp; -->
 <a href="https://leetcode.com/NereidaRondon/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/LeetCode_Logo_black_with_text.svg" width='130' alt="LeetCode profile"></a>
 &emsp; 
-<a href="https://www.codewars.com/users/NereidaRondon"><img class="codewars" src="https://www.codewars.com/users/NereidaRondon/badges/large" alt="Nereida's CodeWars score" width="300"></a>    
-</p>    
+<!-- <a href="https://www.codewars.com/users/NereidaRondon"><img class="codewars" src="https://www.codewars.com/users/NereidaRondon/badges/large" alt="Nereida's CodeWars score" width="300"></a>    
+</p>     -->
 
 ------------------------------------
 
